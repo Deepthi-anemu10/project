@@ -1,0 +1,28 @@
+*{
+     margin:15px;
+}
+    body{
+        background-image: url("musicsym.jpeg");
+        background-repeat: repeat;
+        background-size:805px;
+    }
+.navbar{
+    over-flow:auto;
+    
+}
+.navbar a{
+    border-radius: 15px 50px;
+    background-color: rgb(200, 99, 195);
+    padding: 40px;
+    width: 2000px;
+    height:1900px;
+}
+.navbar a:hover {
+    background-color: blueviolet;
+    color: aqua;
+}
+.icon{
+    font-size: 100px;
+    color: rgb(145, 193, 12);
+    text-align: center;
+}
